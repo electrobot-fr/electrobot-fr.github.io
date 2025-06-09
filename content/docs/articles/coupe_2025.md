@@ -4,7 +4,27 @@ Cette année, nous sommes arrivés 5ème à la Coupe Régionale d'Ile-de-France 
 
 ## Composants du robot
 
-...
+Notre robot est composé de:
+* 4 moteurs JGB37-520 333rpm
+* 4 roues mecanum
+* Un ESP32 qui fait une [pont 2.4GHz](https://github.com/electrobot-fr/coupe2025/blob/main/serial2serial/src/bridge.ino) entre la télécommande et le robot (la liaison est toujours série)
+* Un Arduino Mega et un sensor shield (pour brancher les servos facilement)
+* Un Arduino Uno pour la commande des moteurs
+* Un CNC shield v3 et des TMC2209 pour commander les moteurs pas à pas
+* Une pompe à vide, une électrovanne, un [manipulateur](https://fr.aliexpress.com/item/1005006009299791.html) et des ventouses trouvés sur Aliexpress
+* Des [modules mosfet](https://fr.aliexpress.com/item/1005006457613501.html) pour contrôler la pompe et l'électrovanne (12V) avec un Arduino
+* Une [pince pour les boites de conserve](https://www.printables.com/model/1154981-halbach-array-magnet-gripper/files) faite par l'équipe Karibous
+* 2 ponts en H L298N
+* Des servos (standard et micro)
+* Une batterie Parkside et un [support imprimé en 3D](https://www.thingiverse.com/thing:4445077)
+* Plusieurs convertisseurs DC-DC LM2596
+* Un afficheur TM1637
+
+Dans la télécommande, il y a un ESP32 pour la communication sans fil et un Arduino qui s'occupe des boutons.
+
+Les PAMIs sont réalisés avec des moteurs pas à pas [17HE08-1004S](https://www.omc-stepperonline.com/fr/e-serie-nema-17-bipolar-1-8deg-17ncm-24-07oz-in-1a-42x42x23mm-4-fils-17he08-1004s), un CNC shield v3 et un Arduino Uno.
+
+Cette année, nous avons beaucoup utilisé la découpeuse laser. Pour la conception, nous avons tout fait avec Fusion 360 et surtout ce petit outil pour faire les [jointures](https://github.com/FlorianPommerening/FingerJoints).
 
 ## Participants
 
