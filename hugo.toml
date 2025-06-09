@@ -1,0 +1,7 @@
+baseURL = 'https://electrobot.fr/'
+languageCode = 'fr-fr'
+defaultContentLanguage = 'fr'
+title = 'Electrobot'
+
+[params]
+  BookLogo = 'logo.png'
