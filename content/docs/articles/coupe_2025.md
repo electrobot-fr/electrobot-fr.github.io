@@ -7,7 +7,7 @@ Cette année, nous sommes arrivés 5ème à la Coupe Régionale d'Ile-de-France 
 Notre robot est composé de:
 * 4 moteurs JGB37-520 333rpm
 * 4 roues mecanum
-* Un ESP32 qui fait une [pont 2.4GHz](https://github.com/electrobot-fr/coupe2025/blob/main/serial2serial/src/bridge.ino) entre la télécommande et le robot (la liaison est toujours série)
+* Un ESP32 qui fait un [pont 2.4GHz](https://github.com/electrobot-fr/coupe2025/blob/main/serial2serial/src/bridge.ino) entre la télécommande et le robot (la liaison est toujours série)
 * Un Arduino Mega et un sensor shield (pour brancher les servos facilement)
 * Un Arduino Uno pour la commande des moteurs
 * Un CNC shield v3 et des TMC2209 pour commander les moteurs pas à pas
