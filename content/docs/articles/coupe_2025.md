@@ -1,5 +1,9 @@
 # Coupe 2025
 
+Le thème de cette année est **"The Show Must Go On"**. Les robots organisent un concert : ils doivent préparer la salle, assurer la promotion du spectacle, monter sur scène pour jouer le concert, puis ranger le matériel. Enfin, ils doivent estimer le nombre d'entrées de spectateurs. Le tout en 100 secondes sur une table de 3m x 2m !
+
+Le règlement: https://www.coupederobotique.fr/wp-content/uploads/Eurobot2025_Rules.pdf
+
 Cette année, nous sommes arrivés 5ème à la Coupe Régionale d'Ile-de-France et 7ème sur 49 à la Coupe de France.
 
 ## Composants du robot
