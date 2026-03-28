@@ -7,7 +7,7 @@ type: docs
 
 ## Qui sommes-nous ?
 
-Electrobot est une équipe participant à la Coupe de France de Robotique Junior.
+Electrobot est une équipe de jeunes en fin de collège et lycée participant à la Coupe de France de Robotique Junior.
 
 Nous sommes basés à Nanterre, à l’[Electrolab](https://www.electrolab.fr/).
 
