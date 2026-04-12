@@ -2,6 +2,8 @@
 
 Le thème de cette année est **"Winter is Coming"**. Les robots jouent le rôle d'écureuils qui doivent constituer leurs réserves avant l'hiver. Des humains ont ramassé des noisettes dans des caisses, et pendant leur pause-café, les robots ont un temps limité pour récupérer les noisettes et les cacher. C'est une course contre la montre !
 
+Cette année, nous sommes arrivés 5ème aux qualifications de la Coupe Régionale d'Ile-de-France.
+
 Le règlement: https://www.coupederobotique.fr/edition-2026/reglement-2026/
 
 ## Composants du robot
@@ -35,4 +37,27 @@ Huit jeunes cette année :
 
 Le code: https://github.com/electrobot-fr/coupe2026
 
+## Photos
+
+![photo](/2026/IMG_1148.jpg)
+![photo](/2026/IMG_1157.jpg)
+
 ## Vidéos
+
+Matchs de série :
+
+Match 1 :
+
+{{< youtube hjGd6FJU3dA >}}
+
+Match 2 :
+
+{{< youtube P6Cp5sbT1AU >}}
+
+Match 3 :
+
+{{< youtube YNLZHhDteAY >}}
+
+Phase finale :
+
+{{< youtube XmAA3FU3t94 >}}
