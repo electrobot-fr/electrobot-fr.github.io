@@ -89,3 +89,21 @@ Le robot roule !
 
 {{< video src="/2025/IMG_0958.mp4" width=300px >}}
 {{< video src="/2025/IMG_1025.mp4" >}}
+
+Matchs de la Coupe de France :
+
+Match 1 :
+
+{{< youtube 7X69Z36Bfjw >}}
+
+Match 2 :
+
+{{< youtube JuBLBUTFfg4 >}}
+
+Match 3 :
+
+{{< youtube ShajgMvytZY >}}
+
+Match 4 :
+
+{{< youtube DT4zRyq1q_M >}}
