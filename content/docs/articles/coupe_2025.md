@@ -42,8 +42,8 @@ Sept jeunes cette année :
 * Mina
 * Thomas
 
-![team](/team2025.1.jpg)
 ![photo](/2025/PXL_20250419_094654783.jpg)
+![team](/team2025.1.jpg)
 ![team](/mascotte.jpg)
 
 ## Liens
