@@ -2,7 +2,7 @@
 
 Le thème de cette année est **"Winter is Coming"**. Les robots jouent le rôle d'écureuils qui doivent constituer leurs réserves avant l'hiver. Des humains ont ramassé des noisettes dans des caisses, et pendant leur pause-café, les robots ont un temps limité pour récupérer les noisettes et les cacher. C'est une course contre la montre !
 
-Cette année, nous sommes arrivés 5ème aux qualifications de la Coupe Régionale d'Ile-de-France, puis **2ème à la Coupe de France** !
+Cette année, nous sommes arrivés 5ème aux qualifications de la Coupe Régionale d'Ile-de-France, puis **2ème à la Coupe de France** ! Nous avons aussi participé à **Eurobot Junior** à Madrid, en Espagne, où nous sommes arrivés 4ème à l'issue des séries.
 
 Le règlement: https://www.coupederobotique.fr/edition-2026/reglement-2026/
 
@@ -75,6 +75,10 @@ graph LR
 | 3 | 108 | **135** |
 
 *Flybot remporte la finale 2-1. Petite finale : Game Team 115 - 76 Hivertaco (3ème place).*
+
+## Eurobot Junior
+
+Nous sommes allés à **Eurobot Junior** à Madrid, en Espagne ! Nous sommes arrivés **4ème** à l'issue des séries (sur 13 équipes), mais avons été éliminés en 8ème de finale.
 
 ## Composants du robot
 
